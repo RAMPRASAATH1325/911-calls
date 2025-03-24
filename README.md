@@ -33,15 +33,13 @@ The dataset consists of the following fields:
 4. Insights & Conclusions: Summarizing key findings.
 
 ## How to Run the Project
-1. Clone the repository:
-   git clone https://github.com/Haroon-89/911-calls-analysis.git
    
-2. Navigate to the project directory:
+1. Navigate to the project directory:
    cd 911-calls-analysis
-3. Install the required libraries:
+2. Install the required libraries:
    pip install pandas numpy matplotlib seaborn
 
-4. Open the Jupyter Notebook and run the analysis:
+3. Open the Jupyter Notebook and run the analysis:
    jupyter notebook
 
 ## Results & Insights
