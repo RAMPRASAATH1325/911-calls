@@ -20,7 +20,7 @@ The dataset consists of the following fields:
 - Jupyter Notebook
 - Pandas (for data manipulation)
 - NumPy (for numerical operations)
-- Matplotlib & Seaborn** (for data visualization)
+- Matplotlib & Seaborn (for data visualization)
 
 ## Project Workflow
 1. Data Loading: Importing the dataset and examining its structure.
